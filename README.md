@@ -1,7 +1,3 @@
-# Backgrounds:
-- Learn about Responsive Web Development
-- To Improve My Personal Skills
-
 # "Ahbrew Kopi" a Static Website
 In order to improve personal skills, creating a website for AhBrew Coffee involves a deep understanding of Responsive Web Development.
 
